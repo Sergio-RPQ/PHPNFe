@@ -1,0 +1,1 @@
+ALTER TABLE `nfe`.`cce_lotes` CHANGE `idLote` `idLote` BIGINT(20) NOT NULL AUTO_INCREMENT, ADD PRIMARY KEY (`idLote`);
